@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JavaScript Essentials and All That Jazz**
 
-- 🌱 I’m currently learning **JavaScript and creating my own API**  
+- 🌱 I’m currently learning **JavaScript, WordPress and creating my own API's**  
 
 - 💬 Ask me about **being a n00b and share your own learning journey, tips and tricks**
 
