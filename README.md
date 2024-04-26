@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helchris&label=Profile%20views&color=0e75b6&style=flat" alt="helchris" /> </p>
 
-- 🔭 I’m currently working on **JavaScript Essentials and All That Jazz**
+- 🔭 I’m currently working on **JavaScript Essentials and WordPress CMS**
 
 - 🌱 I’m currently learning **JavaScript, WordPress and creating my own API's**  
 
