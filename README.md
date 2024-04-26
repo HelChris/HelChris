@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HelChris</h1>
-<h3 align="center">A Life Long Learner and Aspiring Front-End Developer.</h3>
+<h3 align="center">A Life Long Learner and Front-End Developer.</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699574400&semt=sph">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helchris&label=Profile%20views&color=0e75b6&style=flat" alt="helchris" /> </p>
