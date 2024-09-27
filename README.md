@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My portfolio project**
 
-- 🌱 I’m currently learning **JavaScript, WordPress CMS and working with API**  
+- 🌱 I’m currently learning **JavaScript, WordPress and working with API's**  
 
 - 💬 Talk to me about **front-end development**
 
