@@ -2,9 +2,9 @@
 <h3 align="center">Front-End Developer online student first year w/Noroff.</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699574400&semt=sph">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helchris&label=Profile%20views&color=0e75b6&style=flat" alt="helchris" /> </p>
+<p align="left">  </p>
 
-- 🔭 I’m currently working on **My examn project**
+- 🔭 I’m currently working on **My portfolio project**
 
 - 🌱 I’m currently learning **JavaScript, WordPress CMS and working with API**  
 
