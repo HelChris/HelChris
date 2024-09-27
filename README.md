@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, WordPress and working with API's**  
 
-- 💬 Talk to me about **front-end development**
+- 💬 Talk to me about **Life, the Universe and Everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
