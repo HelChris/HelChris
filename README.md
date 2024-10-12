@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helene</h1>
+<h1 align="center">Hi 👋, I'm Helene aka HelChris</h1>
 <h3 align="center">Front-End Developer online student first year w/Noroff.</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699574400&semt=sph">
 
