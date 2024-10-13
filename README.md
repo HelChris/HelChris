@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helene aka HelChris</h1>
-<h3 align="center">Front-End Developer part-time online-student at Noroff - School of Technology and Digital Media.</h3>
+<h3 align="center">Front-End Developer student at Noroff - School of Technology and Digital Media.</h3>
 
 <p align="left">  </p>
 
