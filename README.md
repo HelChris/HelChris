@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **My portfolio project**
 
-- 🌱 I’m currently learning **JavaScript, WordPress and working with REST API's**
-
 - ✨ Looking forward to learning typescript and build my first react native app
+
+- 🌱 I’m currently learning **JavaScript, WordPress and working with REST API's**
 
 - 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
