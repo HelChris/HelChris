@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Helene aka HelChris</h1>
-<h3 align="center">Front-End Developer online student first year w/Noroff.</h3>
+<h3 align="center">Front-End Developer part-time online-student finishing the first year at Noroff - School of Technology and Digital Media.</h3>
 
 <p align="left">  </p>
 
 - 🔭 I’m currently working on **My portfolio project**
 
-- 🌱 I’m currently learning **JavaScript, WordPress and working with API's**  
+- 🌱 I’m currently learning **JavaScript, WordPress and working with REST API's**  
 
-- 💬 Talk to me about **Life, the Universe and Everything**
+- 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
