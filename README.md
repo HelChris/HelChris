@@ -3,11 +3,11 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **My portfolio project**
+- 🔭 I’m currently working on **JavaScript**
 
 - ✨ Looking forward to learning typescript and build my first react native app
 
-- 🌱 I’m currently learning **JavaScript, WordPress and working with REST API's**
+- 🌱 I’m currently learning **JavaScript, JWT and API Keys**
 
 - 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
