@@ -3,11 +3,11 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Semester Project 2**
 
-- ✨ Looking forward to learning typescript and build my first react native app
+- ✨ Looking forward to learning typescript and build my first react native app 
 
-- 🌱 I’m currently learning **JavaScript, JWT and API Keys**
+- 🌱 I’m currently learning to **Build front-end applications with Noroff's API**
 
 - 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
