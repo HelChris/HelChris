@@ -7,7 +7,7 @@
 
 - ✨ Looking forward to learning typescript and build my first react native app 
 
-- 🌱 I’m currently learning to **Build front-end applications with Noroff's API**
+- 🌱 I’m currently **building front-end applications with Noroff's API**
 
 - 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
