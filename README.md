@@ -3,12 +3,12 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Semester Project 2**
+- 🔭 I’m currently working on **TypeScript and React**
 
- - ✨ will be learning typescript and react
+ - ✨ learning and setting up my hobby-projects 
 
-- 🌱 **I’m building a webiste and front-end application with Noroff's REST API:**
- <br>I'm using tailwind CSS with PostCSS and Vite, vanilla modular javascript, semantic HTML, NPM, JSDocs, JWT, ESLint, Prettier, Husky, Vitest, Playwright, Netlify for hosting, Figma for design+styleguide+prototype, Github project for kanban+gantt chart and project managing. I'll implement requried user stories, follow best practices for JS/CSS/HTML, use hotjar for usertesting and feedback, comply with WCAG guidelines, validate forms, handle errors properly, debug and implement changes according to feedback. I'll make sure the application is functional and accessible within the deadline. 
+- 🌱 **I’m building and learning**
+
 
 - 💬 Talk to me about **Life, the Universe and Everything** 📖🤓
 
