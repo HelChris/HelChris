@@ -1,5 +1,5 @@
 <h1 align="left">HelChris</h1>
-<h2 align="left">Front-End Development</h2>
+<p align="left">Front-End Development</p>
 
 
 
