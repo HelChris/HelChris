@@ -3,7 +3,7 @@
   <p>Front-End Development</p>
   <p>Background in Early Childhood Education</p>
 
-
+---
 
   <h3>Current Languages and Tools:</h3>
   <p>React, Typescript, Javascript, Tailwind, CSS, HTML5, Vite, Husky, ESLint, Zod, REST APIs, Netlify, Git, Github, pnpm/npm, Terminal, VScode, Figma, WCAG Wave & Lighthouse, Linux, Obsidian.  </p>
