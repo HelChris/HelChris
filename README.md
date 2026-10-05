@@ -4,7 +4,7 @@
 
 
 <p align="left">Current Languages and Tools:</p>
-<p align="left">React, Typescript, Javascript, Vite, Tailwind, CSS, HTML5, Git, pnpm/pnm, Terminal, Linux, VScode, Figma, WCAG Wave & Lighthouse</p>
+<p align="left">React, Typescript, Javascript, Vite, Tailwind, CSS, HTML5, Git, <br /> pnpm/pnm, Terminal, Linux, VScode, Figma, WCAG Wave & Lighthouse</p>
 
 
 
