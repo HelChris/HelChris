@@ -1,5 +1,5 @@
-<h1 align="center">HelChris</h1>
-<h3 align="center">Front-End Development</h3>
+<h1 align="left">HelChris</h1>
+<h3 align="left">Front-End Development</h3>
 
 
 
