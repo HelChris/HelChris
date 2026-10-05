@@ -12,8 +12,8 @@
 
   <div>
     <h3>Contact Me</h3>
-    <a href="https://linkedin.com/in/helene-christine-halvorsen-058067259" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin helene-christine-halvorsen" height="40" width="40" /></a>
-    <a href="https://www.instagram.com/helene_hch/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" alt="instagram helene_hch" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/helene-christine-halvorsen-058067259" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="linkedin helene-christine-halvorsen"/></a>
+    <a href="https://www.instagram.com/helene_hch/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" alt="instagram helene_hch"/></a>
     <a href="https://discord.com/users/792141193718923324" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u9hrfH9TOa9D&format=png&color=000000" alt="discord helchris" /></a>
   </div>
 </div>
