@@ -1,9 +1,9 @@
 <h1 align="left">HelChris</h1>
-<h3 align="left">Front-End Development</h3>
+<h2 align="left">Front-End Development</h2>
 
 
 
-<h3 align="left">Current Languages and Tools:</h3>
+<p align="left">Current Languages and Tools:</p>
 <p align="left">React, Typescript, Javascript, Vite, Tailwind, CSS, HTML5, Git, pnpm/pnm, Terminal, Linux, VScode, Figma, WCAG Wave & Lighthouse</p>
 
 
