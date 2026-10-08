@@ -37,7 +37,7 @@ An online store built with [Tore](https://github.com/Torehirth) for our JavaScri
 
 **Tech:** `React` · `TypeScript` · `Vite` · `React Router` · `Zustand` · `Zod` · `CSS Modules` · `Vitest` · `Testing Library` · `ESLint` · `Prettier` · `Husky`
 
-[Live site](jsfw-heltech.netlify.app) · [Repository](https://github.com/HelChris/jsfw-heltech)
+[Live site](https://jsfw-heltech.netlify.app/) · [Repository](https://github.com/HelChris/jsfw-heltech)
 
   <div>
     <h2>Contact Me</h2>
