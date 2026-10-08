@@ -4,16 +4,44 @@
   <p><em>Background in Early Childhood Education</em></p>
 
 
-  <h2>Languages and Tools:</h2>
-  React (19) / Typescript / Javascript(ES6+) / Tailwind / CSS / HTML5 / REST APIs / Vite / ESLint + Husky + lint staged + github actions / React Hook Form + Zod / Netlify / Git / pnpm / Terminal / VScode / Figma / WCAG, Wave & Lighthouse / Supabase (PostgreSQL) / SEO optimization / Playwright / Next.js / Linux / Obsidian 
+ ## Languages and tools
 
-  <h2>Some projects</h2>
+| Area | Stack |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS |
+| **Frameworks & libraries** | React 19, Next.js, Tailwind CSS, React Hook Form, Zod |
+| **Backend & data** | Supabase (PostgreSQL), REST APIs |
+| **Quality & testing** | ESLint, Husky, lint-staged, GitHub Actions, Playwright |
+| **Accessibility & SEO** | WCAG, WAVE, Lighthouse, SEO optimization |
+| **Workflow & design** | Git, pnpm, Vite, Netlify, Terminal, Linux, VS Code, Figma, Obsidian |
+
+## Some projects
+
+### Spirit Bid
+Semester project at Noroff: an auction website built for a silly niche audience.
+
+**Tech:** `HTML5` · `JavaScript (ES modules)` · `Tailwind CSS v4` · `Vite` · `Noroff API` · `ESLint` · `Husky` · `lint-staged` · `Netlify`
+
+[Live site](https://spiritbid.netlify.app/) · [Repository](https://github.com/HelChris/semesterproject2)
+
+### Readers Realm
+A social platform for book nerds to share reviews and thoughts with fellow readers.
+
+**Tech:** `HTML` · `Tailwind CSS` · `Vanilla JavaScript` · `Fetch API` · `Web Storage API` · `Noroff Social API` · `ESLint`
+
+[Live site](https://readersrealm.netlify.app) · [Repository](https://github.com/HelChris/readersrealm)
+
+### HelTech
+An online store built with [Tore](https://github.com/Torehirth) for our JavaScript framework course.
+
+**Tech:** `React` · `TypeScript` · `Vite` · `React Router` · `Zustand` · `Zod` · `CSS Modules` · `Vitest` · `Testing Library` · `ESLint` · `Prettier` · `Husky`
+
+[Live site](jsfw-heltech.netlify.app) · [Repository](https://github.com/HelChris/jsfw-heltech)
 
   <div>
     <h2>Contact Me</h2>
     <a href="https://discord.com/users/792141193718923324" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=114902&format=png&color=000000" alt="discord helchris" /></a>
     <a href="https://linkedin.com/in/helene-christine-halvorsen-058067259" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="linkedin helene-christine-halvorsen"/></a>
-    <a href="https://www.instagram.com/helene_hch/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000" alt="instagram helene_hch"/></a>
     <a href="https://hch.rocks" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000" alt="webpage helchris, coming soon" /></a>
   </div>
 </div>
