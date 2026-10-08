@@ -3,8 +3,9 @@
   <p><em>Front-End Development</em></p>
   <p><em>Background in Early Childhood Education</em></p>
 
+----
 
- ## Languages and tools
+ ## Languages and tools:
 
 | Area | Stack |
 | --- | --- |
@@ -15,7 +16,7 @@
 | **Accessibility & SEO** | WCAG, WAVE, Lighthouse, SEO optimization |
 | **Workflow & design** | Git, pnpm, Vite, Netlify, Terminal, Linux, VS Code, Figma, Obsidian |
 
-## Some projects
+## A few projects:
 
 ### Spirit Bid
 Semester project at Noroff: an auction website built for a silly niche audience.
