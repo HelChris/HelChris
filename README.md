@@ -5,21 +5,21 @@
 
 ----
 
- ## Languages and tools:
+## Languages and tools
 
 | Area | Stack |
 | --- | --- |
 | **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS |
-| **Frameworks & libraries** | React 19, Next.js, Tailwind CSS, React Hook Form, Zod |
-| **Backend & data** | Supabase (PostgreSQL), REST APIs |
-| **Quality & testing** | ESLint, Husky, lint-staged, GitHub Actions, Playwright |
+| **Frameworks & libraries** | React 19, React Router, Zustand, Next.js, Tailwind CSS, CSS Modules, React Hook Form, Zod |
+| **Data & APIs** | REST APIs, Fetch API, Web Storage API, Supabase (PostgreSQL) |
+| **Quality & testing** | ESLint, Prettier, Husky, lint-staged, GitHub Actions, Vitest, Testing Library, Playwright |
 | **Accessibility & SEO** | WCAG, WAVE, Lighthouse, SEO optimization |
 | **Workflow & design** | Git, pnpm, Vite, Netlify, Terminal, Linux, VS Code, Figma, Obsidian |
 
 ## A few projects:
 
 ### Spirit Bid
-Auction platform built for a silly niche audience, a semesterproject.
+Auction platform built for a silly niche audience, a semester project.
 
 **Tech:** `HTML5` · `JavaScript (ES modules)` · `Tailwind CSS v4` · `Vite` · `Noroff API` · `ESLint` · `Husky` · `lint-staged` · `Netlify`
 
