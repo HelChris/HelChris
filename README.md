@@ -19,7 +19,7 @@
 ## A few projects:
 
 ### Spirit Bid
-Semester project at Noroff: an auction website built for a silly niche audience.
+Auction platform built for a silly niche audience, a semesterproject.
 
 **Tech:** `HTML5` · `JavaScript (ES modules)` · `Tailwind CSS v4` · `Vite` · `Noroff API` · `ESLint` · `Husky` · `lint-staged` · `Netlify`
 
@@ -33,7 +33,7 @@ A social platform for book nerds to share reviews and thoughts with fellow reade
 [Live site](https://readersrealm.netlify.app) · [Repository](https://github.com/HelChris/readersrealm)
 
 ### HelTech
-An online store built with [Tore](https://github.com/Torehirth) for our JavaScript framework course.
+E-commerce application developed with [Tore](https://github.com/Torehirth) for our JavaScript framework course.  
 
 **Tech:** `React` · `TypeScript` · `Vite` · `React Router` · `Zustand` · `Zod` · `CSS Modules` · `Vitest` · `Testing Library` · `ESLint` · `Prettier` · `Husky`
 
