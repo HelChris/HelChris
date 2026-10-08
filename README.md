@@ -5,9 +5,9 @@
 
 
   <h2> Current Languages and Tools:</h2>
-  React, Typescript, Javascript, Tailwind, CSS, HTML5, Vite, Husky, ESLint, Zod, REST APIs, Netlify, Git, Github, pnpm/npm, Terminal, VScode, Figma, WCAG Wave & Lighthouse, Supabase, Linux, Obsidian.
+  React (19) / Typescript / Javascript(ES6+) / Tailwind / CSS / HTML5 / REST APIs / Vite / ESLint + Husky + lint staged + github actions / React Hook Form + Zod / Netlify / Git / pnpm / Terminal / VScode / Figma / WCAG, Wave & Lighthouse / Supabase (PostgreSQL) / SEO optimization / Playwright / Next.js / Linux / Obsidian 
 
-
+  <h2>Some projects</h2>
 
   <div>
     <h2>Contact Me</h2>
