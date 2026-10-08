@@ -4,7 +4,7 @@
   <p><em>Background in Early Childhood Education</em></p>
 
 
-  <h2> Current Languages and Tools:</h2>
+  <h2>Languages and Tools:</h2>
   React (19) / Typescript / Javascript(ES6+) / Tailwind / CSS / HTML5 / REST APIs / Vite / ESLint + Husky + lint staged + github actions / React Hook Form + Zod / Netlify / Git / pnpm / Terminal / VScode / Figma / WCAG, Wave & Lighthouse / Supabase (PostgreSQL) / SEO optimization / Playwright / Next.js / Linux / Obsidian 
 
   <h2>Some projects</h2>
