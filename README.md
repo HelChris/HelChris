@@ -1,9 +1,10 @@
-<div align="left">
-  <h1>HelChris </h1>
-  <p><em>Front-End Development</em></p>
-  <p><em>Background in Early Childhood Education</em></p>
+ <div align="center">
+    <h1>HelChris </h1>
+    <p><em>Front-End Development</em></p>
+    <p><em>Background in Early Childhood Education</em></p>
+  </div>
 
-----
+<div align="left">
 
 ## Languages and tools
 
@@ -39,10 +40,19 @@ E-commerce application developed with [Tore](https://github.com/Torehirth) for o
 
 [Live site](https://jsfw-heltech.netlify.app/) · [Repository](https://github.com/HelChris/jsfw-heltech)
 
-  <div>
+  <div align="center">
     <h2>Contact Me</h2>
+    <br>
     <a href="https://discord.com/users/792141193718923324" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=114902&format=png&color=000000" alt="discord helchris" /></a>
     <a href="https://linkedin.com/in/helene-christine-halvorsen-058067259" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="linkedin helene-christine-halvorsen"/></a>
     <a href="https://hch.rocks" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000" alt="webpage helchris, coming soon" /></a>
   </div>
 </div>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logov2dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="logov2light.svg">
+    <img alt="HelChris logo" src="logov2dark.svg" width="130">
+  </picture>
+</p>
